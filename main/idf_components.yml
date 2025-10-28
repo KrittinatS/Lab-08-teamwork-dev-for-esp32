@@ -1,0 +1,8 @@
+dependencies:
+  sensor_components:
+    git: https://github.com/Poomchana/sensor.git
+  display_components:
+    git: https://github.com/phuwishpk/Display_Lab08.git
+  led_components:
+
+    git : https://github.com/Phinyapat2005/LED.git
